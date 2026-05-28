@@ -121,7 +121,7 @@ const translations = {
       ["Experiência militar", "7 anos"],
       ["Carta de condução", "Categoria B"],
       ["Área atual", "Cibersegurança"],
-      ["Educação técnica IT", "2 anos"],
+      ["Educação técnica IT", "30 anos"],
       ["Línguas", "PT nativo · EN C1"]
     ],
     profileTitle: "Perfil",
