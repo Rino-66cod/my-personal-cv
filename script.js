@@ -121,7 +121,7 @@ const translations = {
       ["Experiência militar", "7 anos"],
       ["Carta de condução", "Categoria B"],
       ["Área atual", "Cibersegurança"],
-      ["Educação técnica IT", "30 anos"],
+      ["Educação técnica IT", "2 anos"],
       ["Línguas", "PT nativo · EN C1"]
     ],
     profileTitle: "Perfil",
@@ -276,7 +276,7 @@ const translations = {
     modalEyebrow: "Contacto",
     contactDetails: [
       ["Nome completo", "Rafael Rino"],
-      ["Idade", "29 anos"],
+      ["Idade", "30 anos"],
       ["Naturalidade", "Portuguesa"],
       ["Email", "rino_aug@hotmail.com"],
       ["LinkedIn", "A adicionar"]
